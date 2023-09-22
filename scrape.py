@@ -1,7 +1,7 @@
 import datetime
 import pandas as pd
 import snscrape.modules.twitter as sntwitter
-from tqdm import tqdm_notebook
+from tqdm(total=count) import tqdm_notebook
 
 def scrape_tweets(text, username, since, until, count, retweet, replies):
     # Define a function to search for tweets using snscrape
