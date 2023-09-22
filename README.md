@@ -18,7 +18,6 @@
 ![1681287569753](https://github.com/Harsh-Yadav-02/Hashtag_wApp/assets/75542099/59e09019-9bd6-4d1a-a0a7-4403c646d6eb)
 ![1681287570189](https://github.com/Harsh-Yadav-02/Hashtag_wApp/assets/75542099/e357095f-3b4d-4cc6-aeb1-165bc58034fd)
 ![1681287570406](https://github.com/Harsh-Yadav-02/Hashtag_wApp/assets/75542099/55beaf6a-ca89-45c1-881e-ebf7e163f783)
-![1681287570463](https://github.com/Harsh-Yadav-02/Hashtag_wApp/assets/75542099/7dc3e284-8a1b-4c28-9c11-b40951632757)
 ![1681287569817](https://github.com/Harsh-Yadav-02/Hashtag_wApp/assets/75542099/6b1fc105-f2fa-499f-b428-4e219bef7c9b)
 
 
